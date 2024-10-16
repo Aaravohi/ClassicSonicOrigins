@@ -26,4 +26,4 @@ ____CHANGELOG____
 
 15th October, 2024 :- Release
 
-16th October, 2024:- Fixed the Menu Mesic problem where it didn't loop.
+16th October, 2024:- Fixed the Menu Mesic problem where it didn't loop. Made the SEGA logo 25% smaller.

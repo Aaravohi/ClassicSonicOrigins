@@ -22,4 +22,8 @@ Select the game from the menu and press esc to exit the emulated game.
 
 Enjoy!
 
-UPDATE:- FIXED THE MENU MUSIC PROBLEM WHERE IT DIDNT LOOP.
+____CHANGELOG____
+
+15th October, 2024 :- Release
+
+16th October, 2024:- Fixed the Menu Mesic problem where it didn't loop.

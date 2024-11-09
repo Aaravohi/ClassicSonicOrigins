@@ -29,3 +29,5 @@ ____CHANGELOG____
 16th October, 2024:- Fixed the Menu Mesic problem where it didn't loop. Made the SEGA logo 25% smaller.
 
 25th October, 2024:- Added mobile, and console (with a browser) support. 
+
+9th November, 2024:- Fixed bug where console wouldn't work.

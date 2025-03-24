@@ -31,3 +31,5 @@ ____CHANGELOG____
 25th October, 2024:- Added mobile, and console (with a browser) support. 
 
 9th November, 2024:- Fixed bug where console wouldn't work.
+
+24th March, 2025:- Make the round Mania things smoother, and updated the logo.

@@ -22,6 +22,8 @@ Select the game from the menu and press esc to exit the emulated game.
 
 Enjoy!
 
+NOTE:- There could be some buge that I will fix later.
+
 ____CHANGELOG____
 
 15th October, 2024:- Release
